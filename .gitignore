@@ -201,7 +201,7 @@ submin.MouseButton1Click:Connect(function()
 	if Check.Text == "Key" then 
 		KeyLogin.Visble = false 
 		wait(0.5)
-		Main exploit.Visble = true
+		Main.Visble = true
 	end
 end)
 
